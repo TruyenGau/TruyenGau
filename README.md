@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Van Truyen</h1>
+<h1 align="center">Hi 👋, I'm Le Van Truyen</h1>
 <p align="center">
   <h3 align="center">A software developer</h3>
 </p>
 
 
-- ✍ I'm a student of: [Vietnam-Korea University of Information and Communication Technology](https://vku.udn.vn) (HCMUTE).
+- ✍ I'm a student of: [Vietnam-Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
 
 - 🌱 I’m currently learning **JAVA .**
 
