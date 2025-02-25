@@ -11,8 +11,8 @@
 
 <br />
 
-## 📫 How to reach me:
-
+### 📫 How to reach me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a href="https://www.facebook.com/truyen.le.3557440" alt="Facebook">
@@ -29,7 +29,8 @@
   </a>
 </p>
 
-## Skills:
+### Skills:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
@@ -43,8 +44,8 @@
  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo.png" alt="external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-color-tal-revivo"/>
 </p>
 
-## Activities:
-
+### Activities:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table style="width:100%;">
   <tr>
     <td>
@@ -59,4 +60,5 @@
   </tr>
 </table>
 
-# Certificates:
+### Certificates:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
